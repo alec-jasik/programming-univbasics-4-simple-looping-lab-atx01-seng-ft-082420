@@ -19,12 +19,12 @@ def output_array(array)
   while array[count] do
   puts array[count]
   count += 1 
-  end
+end
 end
 
 def return_string_array(array)
   count = 0 
 while count < array.length do 
   count += 1 
-  end 
+end 
 end
